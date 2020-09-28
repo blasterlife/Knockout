@@ -1,4 +1,4 @@
-# Knockout
+# Blasterlife Knockout Mods
 
 Welcome to the Blasterlife Rival Knockout Mod repository
 
